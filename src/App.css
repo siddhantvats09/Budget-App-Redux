@@ -1,0 +1,99 @@
+
+
+.card {
+  padding: 2em;
+}
+
+.read-the-docs {
+  color: #888;
+}
+.inputbox{
+  background-color: #ffffff;
+  width: 300px;
+  height: 30px;
+  font-size: 20px;
+  border: 2px solid black;
+  margin-bottom: 10px;
+  padding-left: 10px;
+  border-radius: 20px;
+  
+}
+.inputbox::placeholder{
+  padding-left: 10px;
+  color: rgba(51, 50, 50, 0.363);
+  font-size: 15px;
+}
+.budgetbox{
+  width: 40vw;
+  display: flex;
+  flex-direction: column;
+  background-color: #030303b2;
+  height: 20vh;
+  align-items:center;
+  justify-content: center;
+}
+h2{
+  font-size: 30px;
+  color: rgb(83, 83, 255);
+  margin-bottom: 15px;
+}
+.hr{
+  height: 10px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  background-color: #393939;
+}
+
+.homeh2{
+  font-size: 40px;
+  margin-top: 20px;
+}
+.home2h2{
+  display: flex;
+  margin: auto;
+  justify-content: center;
+  color: rgb(194, 130, 255);
+  margin-top: 100px;
+}
+.homeh4{
+  display: flex;
+  margin: auto;
+  justify-content: center;
+  font-size: 15px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  color: #dc52ff;
+}
+.mainnamebox{
+  display: flex;
+  flex-direction: column;
+}
+.namebox{
+  display: flex;
+  margin: auto;
+  justify-content: center;
+  margin-bottom: 10px;
+  font-size: 15px;
+  
+}
+.data{
+  color: rgb(53, 161, 255);
+}
+.shownameh1{
+  display: flex;
+  margin: auto;
+  justify-content: center;
+}
+.hname{
+  margin-top: 10px;
+  margin-bottom: 20px;
+}
+.mainboxborder{
+  
+  background-color: #d8d8d8;
+  border: 4px solid black;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
